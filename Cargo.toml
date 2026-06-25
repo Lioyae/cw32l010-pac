@@ -17,6 +17,7 @@ vcell = "0.1.2"
 
 [dev-dependencies]
 cortex-m = { version = "0.7.7", features = ["critical-section-single-core"] }
+cortex-m-rt = "0.7.5"
 panic-halt = "1.0.0"
 rtt-target = "0.6.1"
 
